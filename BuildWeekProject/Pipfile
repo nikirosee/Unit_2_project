@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+category-encoders = "*"
+eli5 = "*"
+matplotlib = "*"
+notebook = "*"
+numpy = "*"
+pandas = "*"
+plotly = "*"
+pdpbox = "*"
+scipy = "*"
+seaborn = "*"
+sklearn = "*"
+xgboost = "*"
+requests = "*"
+shap = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
